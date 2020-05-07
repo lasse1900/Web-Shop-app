@@ -10,7 +10,8 @@ nodemon.json
 
 # testing
 /coverage
-/images/
+# /images/
+# /data/invoices/
 
 
 # production
